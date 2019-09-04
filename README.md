@@ -4,7 +4,7 @@
 A Simple Dual Clock to display German and Indian Times
 ___
 
-![](Images/Dual%20Clock.png)
+<img src='Images/Dual%20Clock.png' width=300>
 
 
 
