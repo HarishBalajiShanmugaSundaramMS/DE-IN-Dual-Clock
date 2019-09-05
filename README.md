@@ -8,3 +8,26 @@ ___
 
 
 
+<table style="width:100%">
+
+  <tr>
+    <th>Region</th>
+    <th>City</th> 
+  </tr>
+
+  <tr>
+    <td>Africa</td>
+    <td>Smith</td>
+  </tr>
+
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+  </tr>
+
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+  </tr>
+
+</table>
