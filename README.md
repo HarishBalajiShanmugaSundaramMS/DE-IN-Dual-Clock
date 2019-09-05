@@ -16,18 +16,14 @@ ___
   </tr>
 
   <tr>
-    <td>Africa</td>
-    <td>Smith</td>
+    <td>Asia</td>
+    <td>Kolkatta</td>
   </tr>
 
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
+    <td>Europe</td>
+    <td>Berlin</td>
   </tr>
 
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-  </tr>
 
 </table>
