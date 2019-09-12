@@ -42,9 +42,12 @@ The first path is where the python is installed, and the second path is where th
 ``` bash
 @ECHO OFF
 
+if not DEFINED IS_MINIMIZED set IS_MINIMIZED=1 && start "" /min "%~dpnx0" %* && exit
+
 "C:\Users\Coder\Anaconda3\python.exe" "C:\Users\Coder\Code\Clock.py"
 
 ECHO Congratulations! Your first batch file executed successfully.
+
 PAUSE
 ```
 
