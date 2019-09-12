@@ -1,65 +1,51 @@
 # German-Indian Dual Clock
 
-
 A Simple Dual Clock to display German and Indian Times
+
 ___
 
 <h5>Screenshot</h5>
 <img src='Images/Dual%20Clock.png' width=300>
 
-
 <h5>TimeZones Used</h5>
-<table style="width:100%">
 
-  <tr>
-    <th>Country</th> 
-    <th>Region</th>
-    <th>City</th> 
-  </tr>
+| Country | Region | City    |
+| ------- | ------ | ------- |
+| Germany | Europe | Berlin  |
+| India   | Asia   | Kolkata |
 
 
-  <tr>
-    <td>Germany</td>
-    <td>Europe</td>
-    <td>Berlin</td>
-  </tr>
-
-  <tr>
-    <td>India</td>
-    <td>Asia</td>
-    <td>Kolkatta</td>
-  </tr>
-
-</table>
 
 
-    // Use this line of code to get all time zones
-    print(all_timezones)
-
+```python
+// Use this line of code to get all time zones
+import 
+print(all_timezones)
+```
 
 <h5>Libraries Used</h5>
-<table style="width:100%">
-<tr>
-    <th>Library</th> 
-    <th>Version</th>
-</tr>
+
+| Library | Version | Installation                  |
+| ------- | ------- | ----------------------------- |
+| Tkinter | 8.6     |                               |
+| PIL     | 6.1.0   | python3 -m pip install pillow |
+| Pytz    | 2019.1  | python3 -m pip install pytz   |
 
 
-  <tr>
-    <td>Tkinter</td>
-    <td>8.6</td>
-  </tr>
 
+<h5>How to get this code running on your windows machine ?</h5>
 
-  <tr>
-    <td>PIL</td>
-    <td>5.4.1</td>
-  </tr>
+Save the following piece of code as a DOS batch file (example: clock.bat)
 
+The first path is where the python is installed, and the second path is where the source code of the dual clock is saved.
 
-  <tr>
-    <td>pytz</td>
-    <td>2018.9</td>
-  </tr>
-</table>
+``` bash
+@ECHO OFF
 
+"C:\Users\Coder\Anaconda3\python.exe" "C:\Users\Coder\Code\Clock.py"
+
+ECHO Congratulations! Your first batch file executed successfully.
+PAUSE
+```
+
+By running the batch file, the dual clock program will start working on your windows machine.
