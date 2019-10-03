@@ -88,3 +88,4 @@ lbl1.grid(row=0, column=1, sticky=W, pady=2)
 lbl2.grid(row=1, column=1, sticky=W, pady=2)
 #?==========================================================================
 root.mainloop()
+#216DFF
