@@ -1,4 +1,4 @@
-# German-Indian Dual Clock
+German-Indian Dual Clock
 
 A Simple Dual Clock to display German and Indian Times
 
@@ -23,13 +23,22 @@ print(all_timezones)
 ```
 
 <h5>Libraries Used</h5>
-| Library | Version | Installation                  |
-| ------- | ------- | ----------------------------- |
-| Tkinter | 8.6     |                               |
-| PIL     | 6.1.0   | python3 -m pip install pillow |
-| Pytz    | 2019.1  | python3 -m pip install pytz   |
-
-
+<table>
+  <th>Name</th>
+  <th>Version</th>
+  <tr>
+    <td>Tkinter</td>
+    <td>8.6</td>
+  </tr>
+  <tr>
+    <td>PIL</td>
+    <td>  6.1.0 </td>
+  </tr>
+  <tr>
+    <td>Pytz</td>
+    <td>  2019.1 </td>
+  </tr>
+  </table>
 
 <h5>How to get this code running on your windows machine ?</h5>
 Save the following piece of code as a DOS batch file (example: clock.bat)
