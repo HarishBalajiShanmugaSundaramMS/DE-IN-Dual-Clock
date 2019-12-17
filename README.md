@@ -8,12 +8,23 @@ ___
 <img src='Images/Dual%20Clock.png' width=300>
 
 <h5>TimeZones Used</h5>
-| Country | Region | City    |
-| ------- | ------ | ------- |
-| Germany | Europe | Berlin  |
-| India   | Asia   | Kolkata |
+<table>
+  <th>Country</th>
+    <th>Region</th>
+  <th>City</th>
+  <tr>
+    <td>Germany</td>
+    <td>  Europe </td>
+        <td>  Berlin </td>
+  </tr>
+  <tr>
+    <td>India</td>
+    <td>  Asia </td>
+        <td>  Chennai </td>
+  </tr>
+</table>
 
-
+  
 
 
 ```python
