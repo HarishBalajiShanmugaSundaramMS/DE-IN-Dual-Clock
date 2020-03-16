@@ -5,7 +5,7 @@ A Simple Dual Clock to display German and Indian Times
 ___
 
 <h5>Screenshot</h5>
-<img src='Images/Dual%20Clock.png' width=300>
+<img src='Images/Clock.gif' width=300>
 
 <h5>TimeZones Used</h5>
 <table>
@@ -24,7 +24,7 @@ ___
   </tr>
 </table>
 
-  
+
 
 
 ```python
